@@ -54,7 +54,7 @@
 
 1. Клонировать данный репозиторий: ``git clone https://github.com/IAmScRay/zksync && cd zksync``
 2. Установить нужные зависимости: ``pip install -r requirements.txt``
-3. Добавить адреса, приватные ключи и URL для proxy-сервера (если таковые имеются) в ``resources/accounts.json``
+3. Добавить адреса, приватные ключи и URL для proxy-сервера (если таковые имеются) в ``resources/addresses.json``
 4. Настроить slippage, временные промежутки для транзакций и т.д. в ``resources/config.json``
 5. Запустить: ``python3 main.py``
 
