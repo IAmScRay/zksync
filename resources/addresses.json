@@ -1,0 +1,9 @@
+{
+    "accounts": [
+        {
+          "address": "EVM-адрес",
+          "pk": "приватный_ключ",
+          "proxy": "в формате http://user:passworld@ip:port"
+        }
+    ]
+}
